@@ -30,6 +30,7 @@
 I got an idea that Spreading virus looks like a social network. The virus is spreading from person-to-person like SNS does.
 So I thought that prophet algoritms from Facebook could be useful to predict the future trends.
 According to Facebook, Prophet is a procedure for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects.
+But, there are a few wrong prediction data that are less than former number. These numbers are replace by median number.
 
 ## Hope:
 
