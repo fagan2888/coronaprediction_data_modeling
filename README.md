@@ -2,6 +2,8 @@
 2019 Novel Coronavirus COVID-19 (2019-nCoV) Prediction by using data analytics
 ============================================
 
+### There are wrong data on the Korea recovered data in Johns Hopkins github. So I use a data of Korea CDC.
+
 ## This is the data and modeling repository for the Coronaprediction website
 
 ## Website: http://www.coronaprediction.com
